@@ -8,4 +8,10 @@ class Puppy
     @age = age
   end
 
+  # def initialize(params)
+  #   @name = params[:name]
+  #   @breed = params[:breed]
+  #   @age = params[:age]
+  # end
+
 end
